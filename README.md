@@ -1,0 +1,1 @@
+Este projeto foi construído como atividade prática para aplicar os conceitos fundamentais do framework, incluindo a criação de Models com relacionamento (Tags e Posts), Views, Templates dinâmicos e a configuração da interface de Administração (Admin).
